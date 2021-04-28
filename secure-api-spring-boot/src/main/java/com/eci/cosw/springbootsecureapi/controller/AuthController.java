@@ -70,21 +70,21 @@ public class AuthController
     public class Token
     {
 
-        String access_token;
+        String accessToken;
 
         Token( String access_token )
         {
-            this.access_token = access_token;
+            this.accessToken = access_token;
         }
 
         public String getAccessToken()
         {
-            return access_token;
+            return accessToken;
         }
 
         public void setAccessToken( String access_token )
         {
-            this.access_token = access_token;
+            this.accessToken = access_token;
         }
     }
 
