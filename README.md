@@ -1,4 +1,4 @@
-# 3.2 Android Secure REST API
+# LAB 12 IETI
 
 
 #### Part 1: Launch Activity and Login Activity 
